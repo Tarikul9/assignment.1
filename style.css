@@ -1,0 +1,75 @@
+body{
+    
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font: 40px;
+}
+h3{
+    font-size: 30px;
+    text-align: center;
+}
+.orange-highlight{
+    color: orangered;
+}
+.half-width{
+
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;}
+
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    padding:10px 20px;
+    border-radius: 5px;
+    color: whitesmoke;
+    font: weight 800;
+}
+.sadow-box{
+    box-shadow: 10px 10px 40px gray;
+        margin: 5px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        float: left;
+        width: 400px;
+        height: 400px;
+        
+        
+      }
+.sadow-box img {
+        width: 100%;
+        height: auto;
+}
+.pera{
+    padding: 15px;
+    text-align: left;
+}
+
+#background-img{
+    background-image: url("images/Group_33094_1.png");
+    background-size:900px 200px;
+    background-position:center;
+  background-repeat: no-repeat, repeat;
+  padding: 15px;
+}
+#large{
+    text-align: center;
+    float:right;
+    color:white;
+	width:130%
+    
+}
+
+
